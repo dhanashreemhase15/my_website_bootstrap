@@ -1,0 +1,49 @@
+.contact_input{
+	width:60%;
+	height:35px;
+	margin-left:20%;
+	margin-bottom:25px;
+	
+}
+.contact_btn{
+	color:white;
+	border-radius:30px;
+	text-decoration:none;
+	padding:15px;
+	background-color:#8d1540;
+	margin-left:40%;
+	margin-bottom:25px;
+	font-size:20px;
+	width:150px;
+	
+}
+
+.maincolor{
+	background-color:#8d1540;
+	color:white;
+	font-size:20px;
+	text-align:center;
+	text-transform:uppercase;
+	
+}
+
+.mcolor{
+background-color:#8d1540;
+}
+
+.stypepadding{
+	padding-left:400px;
+}
+
+.whatsapp{
+	position:fixed;
+	right:30px;
+	bottom:60px;
+}
+.whatsapp_btn{
+	color:#660033;
+	border-radius:32px;
+	text-decoration:none;
+	font-size:40px;
+	padding:16px;
+}
